@@ -26,13 +26,13 @@ I build APIs, system integrations, automations, and internal tools that turn com
 ![Python](https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-000000?style=for-the-badge&logo=typescript&logoColor=white)
-![PowerShell](https://img.shields.io/badge/POWERSHELL-000000?style=for-the-badge&logo=powershell&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLITE-000000?style=for-the-badge&logo=sqlite&logoColor=white)
+![PowerShell](https://img.shields.io/badge/POWERSHELL-000000?style=for-the-badge&logo=powershell&logoColor=white)
 
 ![GitHub Actions](https://img.shields.io/badge/GITHUB_ACTIONS-000000?style=for-the-badge&logo=githubactions&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/AZURE_DEVOPS-000000?style=for-the-badge&logo=azuredevops&logoColor=white)
 ![Grafana](https://img.shields.io/badge/GRAFANA-000000?style=for-the-badge&logo=grafana&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/AZURE_DEVOPS-000000?style=for-the-badge&logo=azuredevops&logoColor=white)
 
 ### Socials
 
