@@ -1,7 +1,3 @@
-<br>
-
-`Lbrums / README.md`
-
 ## Luciano Brum
 
 Hello, my name is **Luciano Brum**. I work with **RPA and software development**, with a focus on **backend development**.
