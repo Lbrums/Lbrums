@@ -12,8 +12,6 @@ I build APIs, system integrations, automations, and internal tools to turn compl
 [![GitHub](https://img.shields.io/badge/GITHUB-LBRUMS-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lbrums)
 ![Profile views](https://komarev.com/ghpvc/?username=Lbrums&style=for-the-badge&color=000000&label=VIEWS)
 
-<br>
-
 ### Currently
 
 - Developing automations at **MBRF Global Food Company**
@@ -21,8 +19,6 @@ I build APIs, system integrations, automations, and internal tools to turn compl
 - Creating system integrations and internal tools
 - Working with monitoring and observability
 - Improving my knowledge of software architecture and code quality
-
-<br>
 
 ### Technologies and tools
 
