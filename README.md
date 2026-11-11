@@ -5,6 +5,7 @@
     <img align="right" src="https://img.shields.io/badge/GITHUB-LBRUMS-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile">
   </a>
 </h2>
+
 `Backend` · `APIs` · `RPA` · `Automation` · `System Integration` · `Observability` · `CI/CD`
 
 Hello, my name is **Luciano Brum**. I work with **RPA and software development**, with a focus on **backend development**.
