@@ -1,41 +1,54 @@
-Sou desenvolvedor de **RPA e Software**, com foco em desenvolvimento backend.
+<br>
 
-Trabalho na construção de automações, APIs, integrações e ferramentas que tornam processos mais eficientes, confiáveis e fáceis de monitorar.
+`Lbrums / README.md`
 
-Gosto de transformar problemas reais em soluções simples e bem estruturadas, sempre buscando evoluir em arquitetura de software, qualidade de código e novas tecnologias.
-
----
-
-## Tecnologias
-
-<p>
-  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell">
-  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
-</p>
+# Luciano Brum
 
 ---
 
-## O que desenvolvo
+Olá, meu nome é **Luciano Brum**. Trabalho com **desenvolvimento de RPA e software**, com foco em **backend**.
 
-- APIs e serviços backend
-- Automações de processos
-- Integrações entre sistemas
-- Ferramentas internas
-- Monitoramento e observabilidade
-- Pipelines de testes, build e publicação
+Desenvolvo APIs, integrações, automações e ferramentas internas para transformar processos complexos em soluções mais simples, confiáveis e fáceis de manter.
 
----
+Tenho interesse em arquitetura de software, observabilidade, qualidade de código e melhoria contínua. Gosto de construir soluções que funcionem bem não apenas no desenvolvimento, mas também em produção.
 
-## Atualmente estudando
+[![GitHub](https://img.shields.io/badge/GITHUB-LBRUMS-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lbrums)
+![Profile views](https://komarev.com/ghpvc/?username=Lbrums&style=for-the-badge&color=000000&label=VIEWS)
 
-- Arquitetura backend
-- Qualidade e testes de software
-- Observabilidade
-- Inteligência artificial aplicada ao desenvolvimento
-- Processamento e análise de dados
+<br>
+
+### Atualmente
+
+- Desenvolvendo aplicações e serviços backend
+- Criando automações e integrações entre sistemas
+- Trabalhando com monitoramento e observabilidade
+- Aprimorando conhecimentos em arquitetura e qualidade de software
+
+<br>
+
+### Tecnologias e ferramentas
+
+![Node.js](https://img.shields.io/badge/NODE.JS-000000?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-000000?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=white)
+![PowerShell](https://img.shields.io/badge/POWERSHELL-000000?style=for-the-badge&logo=powershell&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLITE-000000?style=for-the-badge&logo=sqlite&logoColor=white)
+
+![Git](https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GITHUB_ACTIONS-000000?style=for-the-badge&logo=githubactions&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/AZURE_DEVOPS-000000?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Grafana](https://img.shields.io/badge/GRAFANA-000000?style=for-the-badge&logo=grafana&logoColor=white)
+
+<br>
+
+### Áreas de interesse
+
+`Backend` · `APIs` · `RPA` · `Automação` · `Integrações` · `Observabilidade` · `CI/CD`
+
+<br>
+
+### Social
+
+[![GitHub](https://img.shields.io/badge/Luciano_Brum-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/Lbrums)
