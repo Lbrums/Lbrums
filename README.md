@@ -32,9 +32,9 @@ I build APIs, system integrations, automations, and internal tools that turn com
 
 ![GitHub Actions](https://img.shields.io/badge/GITHUB_ACTIONS-000000?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Grafana](https://img.shields.io/badge/GRAFANA-000000?style=for-the-badge&logo=grafana&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/AZURE_DEVOPS-000000?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/AZURE_DEVOPS-000000?style=for-the-badge&logo=azure&logoColor=white)
 
 ### Socials
 
-[![GitHub](https://img.shields.io/badge/Luciano_Brum-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/Lbrums)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-000000?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/bruml_)
+[![GitHub](https://img.shields.io/badge/Lbrums-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/Lbrums)
+[![Instagram](https://img.shields.io/badge/bruml_-000000?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/bruml_)
