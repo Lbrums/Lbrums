@@ -4,8 +4,6 @@
 
 # Luciano Brum
 
----
-
 Hello, my name is **Luciano Brum**. I work with **RPA and software development**, with a focus on **backend development**.
 
 I currently work at **MBRF Global Food Company**, developing automations that improve processes, integrations, reliability, and operational efficiency.
