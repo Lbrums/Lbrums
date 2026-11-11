@@ -2,7 +2,7 @@
 
 `Lbrums / README.md`
 
-# Luciano Brum
+## Luciano Brum
 
 Hello, my name is **Luciano Brum**. I work with **RPA and software development**, with a focus on **backend development**.
 I currently work at **MBRF Global Food Company**, developing automations that improve processes, integrations, reliability, and operational efficiency.
@@ -37,13 +37,9 @@ I build APIs, system integrations, automations, and internal tools to turn compl
 ![Azure DevOps](https://img.shields.io/badge/AZURE_DEVOPS-000000?style=for-the-badge&logo=azuredevops&logoColor=white)
 ![Grafana](https://img.shields.io/badge/GRAFANA-000000?style=for-the-badge&logo=grafana&logoColor=white)
 
-<br>
-
 ### Areas of interest
 
 `Backend` · `APIs` · `RPA` · `Automation` · `System Integration` · `Observability` · `CI/CD`
-
-<br>
 
 ### Socials
 
