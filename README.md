@@ -5,12 +5,9 @@
 # Luciano Brum
 
 Hello, my name is **Luciano Brum**. I work with **RPA and software development**, with a focus on **backend development**.
-
 I currently work at **MBRF Global Food Company**, developing automations that improve processes, integrations, reliability, and operational efficiency.
 
 I build APIs, system integrations, automations, and internal tools to turn complex processes into solutions that are simpler, reliable, and easier to maintain.
-
-I am interested in software architecture, observability, code quality, and continuous improvement. I enjoy building solutions that work well not only during development, but also in production.
 
 [![GitHub](https://img.shields.io/badge/GITHUB-LBRUMS-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lbrums)
 ![Profile views](https://komarev.com/ghpvc/?username=Lbrums&style=for-the-badge&color=000000&label=VIEWS)
