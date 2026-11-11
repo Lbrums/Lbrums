@@ -1,26 +1,20 @@
-<table width="100%">
-  <tr>
-    <td valign="middle">
-      <h2>Luciano Brum</h2>
-      <sub>RPA & Software Developer · Backend-focused</sub>
-    </td>
-    <td align="right" valign="middle">
-      <a href="https://github.com/Lbrums">
-        <img src="https://img.shields.io/badge/GITHUB-LBRUMS-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile">
-      </a>
-      <img src="https://komarev.com/ghpvc/?username=Lbrums&style=for-the-badge&color=000000&label=VIEWS" alt="Profile views">
-    </td>
-  </tr>
-</table>
+<h2>
+  Luciano Brum
+  <img align="right" src="https://komarev.com/ghpvc/?username=Lbrums&style=for-the-badge&color=000000&label=VIEWS" alt="Profile views">
+  <a href="https://github.com/Lbrums">
+    <img align="right" src="https://img.shields.io/badge/GITHUB-LBRUMS-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile">
+  </a>
+</h2>
 
-<br>
+<sub>RPA & Software Developer · Backend-focused</sub>
+
+<br><br>
 
 Hello, my name is **Luciano Brum**. I work with **RPA and software development**, with a focus on **backend development**.
 
 I currently work at **MBRF Global Food Company**, developing automations that improve processes, integrations, reliability, and operational efficiency.
 
 I build APIs, system integrations, automations, and internal tools that turn complex processes into solutions that are **simpler, more reliable, and easier to maintain**.
-
 <br>
 
 ### Currently
