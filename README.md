@@ -1,5 +1,5 @@
 <div>
-  Luciano Brum
+  <big><strong>Luciano Brum</strong></big>
   <img align="right" src="https://komarev.com/ghpvc/?username=Lbrums&style=for-the-badge&color=000000&label=VIEWS" alt="Profile views">
   <a href="https://github.com/Lbrums">
     <img align="right" src="https://img.shields.io/badge/GITHUB-LBRUMS-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile">
