@@ -1,12 +1,12 @@
-## Luciano Brum
+## Luciano Brum [![GitHub](https://img.shields.io/badge/GITHUB-LBRUMS-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lbrums)
+![Profile views](https://komarev.com/ghpvc/?username=Lbrums&style=for-the-badge&color=000000&label=VIEWS)
 
 Hello, my name is **Luciano Brum**. I work with **RPA and software development**, with a focus on **backend development**.
 I currently work at **MBRF Global Food Company**, developing automations that improve processes, integrations, reliability, and operational efficiency.
 
 I build APIs, system integrations, automations, and internal tools to turn complex processes into solutions that are simpler, reliable, and easier to maintain.
 
-[![GitHub](https://img.shields.io/badge/GITHUB-LBRUMS-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lbrums)
-![Profile views](https://komarev.com/ghpvc/?username=Lbrums&style=for-the-badge&color=000000&label=VIEWS)
+
 
 ### Currently
 
@@ -40,5 +40,4 @@ I build APIs, system integrations, automations, and internal tools to turn compl
 ### Socials
 
 [![GitHub](https://img.shields.io/badge/Luciano_Brum-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/Lbrums)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=flat-square&logo=linkedin&logoColor=white)](LINKEDIN_URL_HERE)
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-000000?style=flat-square&logo=instagram&logoColor=white)](INSTAGRAM_URL_HERE)
