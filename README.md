@@ -1,7 +1,5 @@
 <div align="center">
 
-# Olá, eu sou o Luciano Brum 👋
-
 ### Desenvolvedor de RPA e Software com foco em Backend
 
 Construo automações, APIs e soluções de software voltadas para eficiência, integração e confiabilidade.
@@ -69,27 +67,5 @@ Gosto de transformar problemas reais em soluções simples e bem estruturadas, s
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Lbrums&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lbrums&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais utilizadas">
-
-</div>
-
----
-
-## Contato
-
-<div align="center">
-
-<a href="https://github.com/Lbrums">
-  <img src="https://img.shields.io/badge/GitHub-Lbrums-181717?style=for-the-badge&logo=github" alt="GitHub">
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### Desenvolvimento, automação e melhoria contínua. 🚀
-
-<img src="https://komarev.com/ghpvc/?username=Lbrums&color=7C3AED&style=flat-square&label=Visualizações" alt="Visualizações do perfil">
 
 </div>
