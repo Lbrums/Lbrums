@@ -5,6 +5,7 @@
     <img align="right" src="https://img.shields.io/badge/GITHUB-LBRUMS-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile">
   </a>
 </h2>
+`Backend` · `APIs` · `RPA` · `Automation` · `System Integration` · `Observability` · `CI/CD`
 
 Hello, my name is **Luciano Brum**. I work with **RPA and software development**, with a focus on **backend development**.
 I currently work at **MBRF Global Food Company**, developing automations that improve processes, integrations, reliability, and operational efficiency.
@@ -33,10 +34,6 @@ I build APIs, system integrations, automations, and internal tools that turn com
 ![GitHub Actions](https://img.shields.io/badge/GITHUB_ACTIONS-000000?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/AZURE_DEVOPS-000000?style=for-the-badge&logo=azuredevops&logoColor=white)
 ![Grafana](https://img.shields.io/badge/GRAFANA-000000?style=for-the-badge&logo=grafana&logoColor=white)
-
-### Areas of interest
-
-`Backend` · `APIs` · `RPA` · `Automation` · `System Integration` · `Observability` · `CI/CD`
 
 ### Socials
 
