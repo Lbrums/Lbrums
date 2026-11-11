@@ -1,34 +1,36 @@
-<table>
+<table width="100%">
   <tr>
-    <td width="70%" valign="top">
-
-## Luciano Brum
-
-  </td>
-  <td width="30%" align="right" valign="top">
-
-<a href="https://github.com/Lbrums">
-  <img src="https://img.shields.io/badge/GITHUB-LBRUMS-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"> <img src="https://komarev.com/ghpvc/?username=Lbrums&style=for-the-badge&color=000000&label=VIEWS" alt="Profile views">
-</a>
-
-
-  </td>
+    <td valign="middle">
+      <h2>Luciano Brum</h2>
+      <sub>RPA & Software Developer · Backend-focused</sub>
+    </td>
+    <td align="right" valign="middle">
+      <a href="https://github.com/Lbrums">
+        <img src="https://img.shields.io/badge/GITHUB-LBRUMS-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile">
+      </a>
+      <img src="https://komarev.com/ghpvc/?username=Lbrums&style=for-the-badge&color=000000&label=VIEWS" alt="Profile views">
+    </td>
   </tr>
 </table>
+
+<br>
 
 Hello, my name is **Luciano Brum**. I work with **RPA and software development**, with a focus on **backend development**.
 
 I currently work at **MBRF Global Food Company**, developing automations that improve processes, integrations, reliability, and operational efficiency.
 
-I build APIs, system integrations, automations, and internal tools to turn complex processes into solutions that are simpler, more reliable, and easier to maintain.
+I build APIs, system integrations, automations, and internal tools that turn complex processes into solutions that are **simpler, more reliable, and easier to maintain**.
+
+<br>
 
 ### Currently
 
 - Developing automations at **MBRF Global Food Company**
-- Building backend applications and services
-- Creating system integrations and internal tools
-- Working with monitoring and observability
-- Improving my knowledge of software architecture and code quality
+- Building backend applications, APIs, and internal services
+- Creating integrations between systems
+- Working with monitoring, observability, and CI/CD
+
+<br>
 
 ### Technologies and tools
 
@@ -42,16 +44,20 @@ I build APIs, system integrations, automations, and internal tools to turn compl
 ![SQLite](https://img.shields.io/badge/SQLITE-000000?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ![Git](https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GITHUB_ACTIONS-000000?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/AZURE_DEVOPS-000000?style=for-the-badge&logo=azuredevops&logoColor=white)
 ![Grafana](https://img.shields.io/badge/GRAFANA-000000?style=for-the-badge&logo=grafana&logoColor=white)
+
+<br>
 
 ### Areas of interest
 
 `Backend` · `APIs` · `RPA` · `Automation` · `System Integration` · `Observability` · `CI/CD`
 
+<br>
+
 ### Socials
 
 [![GitHub](https://img.shields.io/badge/Luciano_Brum-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/Lbrums)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=flat-square&logo=linkedin&logoColor=white)](LINKEDIN_URL_HERE)
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-000000?style=flat-square&logo=instagram&logoColor=white)](INSTAGRAM_URL_HERE)
