@@ -4,8 +4,6 @@
 
 # Luciano Brum
 
----
-
 Olá, meu nome é **Luciano Brum**. Trabalho com **desenvolvimento de RPA e software**, com foco em **backend**.
 
 Desenvolvo APIs, integrações, automações e ferramentas internas para transformar processos complexos em soluções mais simples, confiáveis e fáceis de manter.
