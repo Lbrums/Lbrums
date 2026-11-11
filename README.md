@@ -9,6 +9,7 @@
 `Backend` · `RPA` · `APIs` · `System Integration` · `Observability` · `CI/CD`
 
 Hello, my name is **Luciano Brum**. I work with **RPA and software development**, with a focus on **backend development**.
+
 I currently work at **MBRF Global Food Company**, developing automations that improve processes, integrations, reliability, and operational efficiency.
 
 I build APIs, system integrations, automations, and internal tools that turn complex processes into solutions that are **simpler, more reliable, and easier to maintain**.
