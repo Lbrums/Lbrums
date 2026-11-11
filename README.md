@@ -1,21 +1,3 @@
-<div align="center">
-
-### Desenvolvedor de RPA e Software com foco em Backend
-
-Construo automações, APIs e soluções de software voltadas para eficiência, integração e confiabilidade.
-
-<br>
-
-<img src="https://img.shields.io/badge/Backend-Development-7C3AED?style=for-the-badge" alt="Backend Development">
-<img src="https://img.shields.io/badge/Software-Automation-2563EB?style=for-the-badge" alt="Software Automation">
-<img src="https://img.shields.io/badge/Brasil-009C3B?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Brasil">
-
-</div>
-
----
-
-## Sobre mim
-
 Sou desenvolvedor de **RPA e Software**, com foco em desenvolvimento backend.
 
 Trabalho na construção de automações, APIs, integrações e ferramentas que tornam processos mais eficientes, confiáveis e fáceis de monitorar.
