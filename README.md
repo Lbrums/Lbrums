@@ -4,31 +4,38 @@
 
 # Luciano Brum
 
-Olá, meu nome é **Luciano Brum**. Trabalho com **desenvolvimento de RPA e software**, com foco em **backend**.
+---
 
-Desenvolvo APIs, integrações, automações e ferramentas internas para transformar processos complexos em soluções mais simples, confiáveis e fáceis de manter.
+Hello, my name is **Luciano Brum**. I work with **RPA and software development**, with a focus on **backend development**.
 
-Tenho interesse em arquitetura de software, observabilidade, qualidade de código e melhoria contínua. Gosto de construir soluções que funcionem bem não apenas no desenvolvimento, mas também em produção.
+I currently work at **MBRF Global Food Company**, developing automations that improve processes, integrations, reliability, and operational efficiency.
+
+I build APIs, system integrations, automations, and internal tools to turn complex processes into solutions that are simpler, reliable, and easier to maintain.
+
+I am interested in software architecture, observability, code quality, and continuous improvement. I enjoy building solutions that work well not only during development, but also in production.
 
 [![GitHub](https://img.shields.io/badge/GITHUB-LBRUMS-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lbrums)
 ![Profile views](https://komarev.com/ghpvc/?username=Lbrums&style=for-the-badge&color=000000&label=VIEWS)
 
 <br>
 
-### Atualmente
+### Currently
 
-- Desenvolvendo aplicações e serviços backend
-- Criando automações e integrações entre sistemas
-- Trabalhando com monitoramento e observabilidade
-- Aprimorando conhecimentos em arquitetura e qualidade de software
+- Developing automations at **MBRF Global Food Company**
+- Building backend applications and services
+- Creating system integrations and internal tools
+- Working with monitoring and observability
+- Improving my knowledge of software architecture and code quality
 
 <br>
 
-### Tecnologias e ferramentas
+### Technologies and tools
 
 ![Node.js](https://img.shields.io/badge/NODE.JS-000000?style=for-the-badge&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-000000?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/POWERSHELL-000000?style=for-the-badge&logo=powershell&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLITE-000000?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -41,12 +48,14 @@ Tenho interesse em arquitetura de software, observabilidade, qualidade de códig
 
 <br>
 
-### Áreas de interesse
+### Areas of interest
 
-`Backend` · `APIs` · `RPA` · `Automação` · `Integrações` · `Observabilidade` · `CI/CD`
+`Backend` · `APIs` · `RPA` · `Automation` · `System Integration` · `Observability` · `CI/CD`
 
 <br>
 
-### Social
+### Socials
 
 [![GitHub](https://img.shields.io/badge/Luciano_Brum-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/Lbrums)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=flat-square&logo=linkedin&logoColor=white)](LINKEDIN_URL_HERE)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-000000?style=flat-square&logo=instagram&logoColor=white)](INSTAGRAM_URL_HERE)
